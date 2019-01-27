@@ -1,0 +1,25 @@
+1. Estimated Bill - Dependency Itron data - Formula
+2. Price Publish - Price Publish/Cast ( We cannot do price publish without Itron)
+3. Usage Portlet - They took a year to build it
+4. Include Security with the service call design 
+5. Agree on the name (Monday) with Websphere/ESB
+6. Add Shubha on the call on Monday
+7. Scott will email to Security, Dan to follow up
+
+Energy Use and cost- Sumesh/ISU needs to be engaged
+Fields are not clear
+
+8. Energy Usage data to pull - Monthly data instead of Yearly? Check performance pulling one Year, we need to rework if performance is not good
+9. Risk: We may not have historical Temperature data from Teradata or any other source
+10. Email would be in form of PDF - Customer service will not be able to see it, tech rep logs in and checks in
+If Jim Does it, it is much faster.
+
+11. myOGEPower Users - are we going to ask the users to create login's again?
+Import - myOGEPower users, Disable signups?
+Define what to do for customers in myOGEPower and not on OGE.com
+
+SAP has the information on who has signed up for myOGEPower - they still may have a different email id between the teo
+Scott will be helpful in that discussion with Kevin and Dan, Jessica, Terena
+
+Approach has to be decided.
+
